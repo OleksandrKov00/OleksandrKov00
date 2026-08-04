@@ -11,6 +11,7 @@ Data Analyst working with Python, SQL and Data Visualization
 📊 Featured Projects
 
 📌 Data-scraper
+Python scripts that parse data from html code of job-posting websites & write down the data in xlsx file, ending up with dataset for analysis
 
 📌 Data Analyst Job Market Analysis
 Python EDA project analyzing thousands of job postings.
