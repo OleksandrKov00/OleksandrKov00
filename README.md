@@ -10,14 +10,14 @@ Data Analyst working with Python, SQL and Data Visualization
 
 📊 Featured Projects
 
-📌 Data-scraper
-Python scripts that parse data from html code of job-posting websites & write down the data in xlsx file, ending up with dataset for analysis
+📌 Web-scraper
+• Python scripts that parse data from html code of job-posting websites & write down the data in xlsx file, ending up with dataset for analysis
 
 📌 Data Analyst Job Market Analysis
-Python EDA project analyzing thousands of job postings.
+• Python EDA project analyzing thousands of job postings.
 
 📌 Power BI Sales Dashboard
-Interactive dashboard built in Power BI.
+• Interactive dashboard built in Power BI.
 
 📌 SQL Learning&Practice
 
