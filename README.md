@@ -5,8 +5,11 @@ Data Analyst working with Python, SQL and Data Visualization
 💻 Skills
 
 • SQL
+
 • Python | Pandas | NumPy | Matplotlib
+
 • Power BI
+
 • Excel
 
 📊 Featured Projects
