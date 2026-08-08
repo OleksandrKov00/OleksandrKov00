@@ -31,6 +31,9 @@ Data Analyst working with Python, SQL and Data Visualization
 • A couple of datasets explored using simple and advanced SQL queries.
 
 📫 Contact
+
 Telegram: @Olxndrkov
+
 LinkedIn: linkedin.com/in/kovalyshyn-oleksandr
+
 Email: kovalyshynoleksandr@gmail.com
